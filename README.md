@@ -4,9 +4,9 @@ Ce projet est une tentative de reproduction de la plateforme de streaming "Netfl
 
 ## Screenshots
 
-![Screenshot 1](Netfilms/public/assets/img/RM-screenshot1.png)
-![Screenshot 2](Netfilms/public/assets/img/RM-screenshot2.png)
-![Screenshot 3](Netfilms/public/assets/img/RM-screenshot3.png)
+![Screenshot 1](screenshots/RM-screenshot1.png)
+![Screenshot 2](screenshots/RM-screenshot2.png)
+![Screenshot 3](screenshots/RM-screenshot3.png)
 
 ## Authors
 
